@@ -1,0 +1,157 @@
+The United States of Schadenfreude
+
+With well worn eyes and a tested stomach Americans endured another grueling election cycle. They chose between an orange populist and a didactic democrat, painted as equally vile, evil and corrupt. And so, in this quadrennial exercise of freedom, a nation divided in suffrage was united again in patriotic syncretism. One can be forgiven for having heard this story before, for history is a serial offender though not without a sense of humour. For one, loss of faith in institutions was a common story during the glory days of the Roman Republic. Popularis politicians, Tiberius and Gaius Gracchus, exploited the expanding economic and political inequality between patricians and plebeians to rise to power as tribunes - promising much, delivering little. America th0ough is no Rome. And yet, its structural issues are not without precedence. 
+
+American democracy today is undermined by the triumvirate trends of institutional dysfunction, media polarization and a broken campaign finance system. Flooded and unable to flush, the great experiment flirts with history's unrelenting bend. Falling, but not yet fallen.
+
+Institutional Dysfunction
+A core innovation of the American presidential system is the balance of powers and the various checks on power available to each branch of the government. By doing so, unlike in parliamentary democracies, it weakens the executive branch relative to the legislative. Madison admits as much in Federalist 51: 'the defect must be supplied, by so contriving the interior structure of the government, as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places' (1). Furthermore plurality-based elections (highest vote getter wins) mean that by Duverger's law such an electorate would at most support a two or three party system. This diffusion of power in indeed a feature of presidential plurality-voting electoral systems leading to less centralized decision making structures. 
+
+Much of the recent political science literature has focused on this centralist / decentralist dimension, arguing that the centralized structure of parliamentary democracy allows it to be a more reliable vehicle to enact good public policy and offers a greater capacity to function as a coordination device (2). A parliamentary democracy, it is argued, integrates a greater diversity of views, provides better incentives to actors to reach agreement, allows for fewer veto points of obstruction (3), imposes lower transaction costs on agreements and reduced propensity for executives to rule at the edge of the constitution (4). Presidential democracies for their part work well to solve commitment problems (with no threat of minority governments) and ensure the durability of victories. This often leads to parliamentary systems being considered decisive while presidential systems resolute. For much of American history this compromise seemed sufficient, reliant as it was on the fidelity of the legislative branch to its voters:
+
+Whatever hopes or projects might be entertained by a few aspiring characters [in Congress], it must generally happen that a great proportion of the men deriving their advancement from their influence with the people, would have more to hope from a preservation of the favor, than from innovations in the government subversive of the authority of the people. All these securities, however, would be found very insufficient without the restraint of frequent elections.
+- James Madison and Alexander Hamilton, The Federalist Paper 57, 1788
+
+This assumption seems particularly threatened in todays political environment (11) particularly with the rise in congressional supermajorities (that is members winning their districts with over 60% of the vote). This again is a feature of the plurality-voting system that results in single member districts that must be redrawn on a regular basis to maintain relative population size (5). 
+
+(insert graph of 60% districts)
+
+Such a feature brings stability to government at the expense of increased partisanship through gerrymandered majorities. This is reflected in the ever decreasing number of swing seats available for each party to capture. 
+
+(insert graph of swing voters decreasing)
+
+Such an environment unfetters representatives from the 'restraint of frequent elections' and instead allows for 'advancement' of power that is divorced from electoral consequences. Since primary voters tend to be more partisan (6), this dynamic leads to a culling of moderate candidates to the benefit of partisans with loyal audiences and/or deep pockets. 
+
+(insert graphic gif of increased polarization)
+
+
+Campaign Finance
+
+This effect is compounded by the ever increasing cost of running for Congress. 
+
+- 3-1 The Cost of Winning an Election, 1986-2012
+- 3-2 House Campaign Expenditures, 1980-2012
+- 3-3 Exp. of House Inc. and Challengers, by Election Outcome, 1980-2012
+
+With increased party sorting (9) and suppressed voter turnout during midterm elections congressional primaries are particularly vulnerable as inexpensive targets for interest groups to gain and exercise influence.(7) In fact in the last decade the predominance of idealogical primary challenges have been unmistakable (8). This makes it more natural for incumbents in supermajority districts to be more concerned with primary challengers over their general election opponents. 
+
+Three Features of Party Sorting in the United States: First, members of the political class initiate the process—they do not sort as a response to popular demand; rather, they sort first and the (attentive) public takes note and sorts later. Second, sorting increases with the level of political involvement—the higher
+the level of political activism, the more distinct (better sorted) are Republicans and Democrats. Third, related to the second proposition, among typical partisans in the public sorting, has increased but remains far below the levels exhibited by those in the political class.
+- Morris P. Fiorina, Professor of Political Science at Stanford, (10)
+
+Perhaps no aspect of this system has received as much media coverage as the rise in SuperPAC and dark money spending (18) in recent election cycles. Two of the most successful campaigns this cycle - that of Donald Trump and Sen. Bernie Sanders - started off my making it a core campaign message. Its populist appeal aside, the influence of wealthy donors (15) is hard to ignore, spreading from federal and congressional primaries to more obscure elections in local school boards (13), all while asymmetrically affecting the Republican party (16). By some measure the commonality (measured by cosine similarity) of the donor bases of congressmen is a fair indicator of policy preferences and intra-party divisions (14). Nowhere is this better illustrated than in the economic positions of Republican congressmen (with respect to taxes on the wealthy, privatization of social security and medicare, minimum wage increases, environmental regulation etc.), which is often at odds with an overwhelming majority of the general electorate. This has led to, as Professor of Political Science at Marquette Julia Azari put it (17): 'the defining characteristic of our moment is that parties are weak while partisanship is strong'. 
+
+- 3-10 PAC Contributions to Congressional Candidates 1978-2012
+- 3-11 How PACs Distributed Their Contributions to Congressional Candidates, 1978-2012
+- 3-14 Non-Party Independent Expenditures in House and Senate Elections, 1978-2012
+- include graphic showing historical supreme court cases for campaign finance
+
+
+Media Polarization
+And so as partisans vie for power, their campaign war chests propitiously filled by those seeking to bear influence, they are abetted by a media landscape that does less to check their power and more to build audiences for them. Perhaps nothing is more emblematic of this age of polarization than the fact that Alex Jones now pioneers the practice of 'truth journalism' (good night and good luck folks). This interplay between media and politics is not a new feature in American democracy. 
+
+The American two-party system is a creation of the press. “The idea of a party system,” as Richard Hofstadter once pointed out, is an American invention, one that not only tolerates but requires the practice of loyal opposition, political criticism, and organized dissent. It began in 1787, during the debate over the Constitution, a debate waged in ratifying conventions but also, more thrillingly, in the nation’s hundreds of weekly newspapers. Some favored ratification; these became Federalist newspapers. Others, the Anti-Federalist newspapers, opposed it. If it hadn’t been for the all-or-nothing dualism of this choice, the United States might well have a multiparty political culture. 
+- Jill Lepore, The Party Crashers, New Yorker 2016
+
+However in the last half century Americans have gone from having three major broadcast networks, presenting the same news in a similar format, to a plethora of cable programs each offering uniquely partisan takes. These programs attract modest audiences that are more loyal in their following, participate more in politics and tend to intensify their partisan beliefs (20). Similarly the diversity of viewing options has allowed people to avoid the news altogether. These individuals tend to know less about politics and are less engaged, which in turn strengthens the paranoid extremes (21) allowing them to punch above their weight in the national conversation (19).
+
+- 8-9 Average Ideological Positions of House Party Coalitions, 80th-113th Congresses, 1947-
+- 8-10 Average Ideological Positions of Senate Party Coalitions, 80th-113th Congresses, 1947-
+- political polarization gif
+
+The fall of old media has been as swift as it has been sure. Through the deregulation of the FCC in the 80s and the merger mayhem, spurred by the Telecom Act, of the 90s American media conglomerates have been unrelenting in their pursuit of profit. News is often seen as just another segment in the product package with common breaches of the wall between entertainment and hard news. Journalism has been replaced by infotainment, content that attracts eyeballs and clicks, and in that pursuit sacrificed the integrity of the fourth estate (25). Often debates are simply framed as hee-haws between public relations professionals only too eager to reap the benefits of free media. There are today over 5 public relations specialists for each reporter compared to 3.2 : 1 in 2004 and 1.2 : 1 in 1980 - it is also the fastest growing profession in the field and the chosen destination for new graduates (22). Information is thus produced in generic form, wholesaled to outlets that place the appropriate framing to suit the format of a particular show or the demographics of its audience (25). The American news system is fast losing its capacity to produce independent information that serves the public interest. This dynamic is best observed in the insipid coverage of scientific policy in the media (26). As Nicholas Lemann, dean emeritus of the Columbia University Graduate School of Journalism puts it: 'the real problem in the world is the decreasing number of employed journalists' (23). 
+
+- most trusted news sourcs: http://www.journalism.org/2014/10/21/political-polarization-media-habits/
+http://www.journalism.org/interactives/media-polarization/table/trust/
+
+
+Hence entrapped (27) in a deluge of misinformation and partisan rhetoric, audiences are less likely to trust sources sharing narratives that don't reinforce their beliefs. With Huxleyan irony it is not that the truth does not exist, it is that it does not matter - such is the price paid for the rational ignorance of the electorate. As Americans traverse this brave new world, the words of Neil Postman appear divine providence: 
+
+What is happening here is that television is altering the meaning of 'being informed' by creating a species of information that might properly be called disinformation. I am using this world almost in the precise sense in which it is used by spies in the CIA or KGB. Disinformation does not mean false information. It means misleading information - misplace, irrelevant, fragmented or superficial information - information that creates the illusion of knowing something but which in fact leads one away from knowing. In saying this, I do not mean to imply that television news deliberately aims to deprive Americans of a coherent, contextual understanding of their world. I mean to say that when news is packaged as entertainment, that is the inevitable result. And in saying that the television news show entertains but does not inform, I am saying something far more serious than that we are being deprived of authentic information. I am saying we are losing our sense of what it means to be well informed. Ignorance is always correctable. But what shall we do if we take ignorance to be knowledge?
+- Neil Postman, Amusing Ourselves to Death: Public Discourse in the Age of Show Business, 1985
+
+
+Conclusion
+
+These long run trends do not foretell epitaphic doom but neither arethey rationalized as trite aberrations of complex democracies. The interplay of these forces deserves to be understood in terms of the set of incentives, constraints and feedback loops that are unique to the American system of government, politics and media. Understood in this context, the rise of Donald Trump is the system's response to the global prevailing winds of populism endemic in the aftermath of socio-economic crisis. 
+
+
+This is a two part series in understanding these prevailing trends in the American democracy and in modelling dynamic equilibrium to determine leverage points for policy intervention. Part I examined these trends, while Part II will look to model these dynamics and examine policy options (or lack thereof). Look for Part II in Mar/Apr-2017.
+
+
+
+Pop-Outs
+--------
+IDEA report on international comparison on campaign finance
+Populism in Europe and US
+COuntries with plurality based presidential democracies
+
+
+
+Quotes
+--------
+
+(1) Madison, Fedaralist Paper 51 - http://press-pubs.uchicago.edu/founders/documents/v1ch10s16.html
+
+(2) https://www.bu.edu/sthacker/files/2012/01/Are-Parliamentary-Systems-Better.pdf
+
+(3) http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.847&rep=rep1&type=pdf
+
+(4) http://www.hcs.harvard.edu/~skach/docs/worl_poli.pdf
+
+(5) https://www.mtholyoke.edu/acad/polit/damy/BeginnningReading/plurality.htm
+
+(6) http://www.people-press.org/2014/06/12/section-5-political-engagement-and-activism/
+
+(7) https://www.brookings.edu/wp-content/uploads/2016/06/KamarckIncreasing-Turnout-in-Congressional-Primaries72614.pdf
+
+(8) https://www.uakron.edu/bliss/docs/state-of-the-parties-documents/Boatright_sotp09.pdf
+
+(9) 
+https://web.stanford.edu/~gentzkow/research/PolarizationIn2016.pdf
+
+(10) http://www.hoover.org/sites/default/files/research/docs/fiorina_3_finalfile.pdf
+
+(11) http://www.gallup.com/poll/192581/americans-confidence-institutions-stays-low.aspx
+
+(12) http://www.mamartino.com/projects/rise_of_partisanship/
+
+(13) http://bigstory.ap.org/article/9c5844eda43d4e8fa71ba448e73fcb83/are-wealthy-donors-influencing-public-school-agenda
+
+(14) https://www.propublica.org/article/campaign-donations-reflect-the-sharp-split-in-congress-among-republicans
+
+(15) http://www.scholarsstrategynetwork.org/sites/default/files/mpsa_koch_network.pdf
+
+(16) http://www.scholarsstrategynetwork.org/sites/default/files/mpsa_koch_network.pdf
+
+(17) http://www.vox.com/mischiefs-of-faction/2016/11/3/13512362/weak-parties-strong-partisanship-bad-combination
+
+(18) http://www.nytimes.com/interactive/2011/10/17/us/politics/a-guide-to-political-donations.html?_r=0
+
+(19) https://www.princeton.edu/~mprior/Prior%20MediaPolarization.pdf
+
+(20) https://global.oup.com/academic/product/niche-news-9780199755516;jsessionid=4817DB5EA017219E87C492B6C42E6A7C?cc=us&lang=en&
+
+(21) http://archive.harpers.org/1964/11/pdf/HarpersMagazine-1964-11-0014706.pdf?AWSAccessKeyId=AKIAJXATU3VRJAAA66RA&Expires=1478981633&Signature=Jw6sAs3vZC9ZxYVpGhV31QKj%2F88%3D
+
+(22) https://books.google.co.in/books/about/The_Death_and_Life_of_American_Journalis.html?id=E3Sh7PGpWJ4C&redir_esc=y
+
+(23) http://www.takepart.com/feature/2015/02/13/pr-jobs-journalism-jobs
+
+(24) http://www.journalism.org/2014/10/21/political-polarization-media-habits/
+
+(25) http://rockyanderson.org/rockycourses/BennettPoliticalEconomyofNews008.pdf
+
+(26) https://www.youtube.com/watch?v=uEtbz_b4hZ4
+
+(27) http://graphics.wsj.com/blue-feed-red-feed/
+
+But the great security against a gradual concentration of the several powers in the same department, consists in giving to those who administer each department, the necessary constitutional means, and personal motives, to resist encroachments of the others. The provision for defence must in this, as in all other cases, be made commensurate to the danger of attack. Ambition must be made to counteract ambition. The interest of the man must be connected with the constitutional rights of the place. It may be a reflection on human nature, that such devices should be necessary to controul the abuses of government. But what is government itself but the greatest of all reflections on human nature? If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controuls on government would be necessary. In framing a government which is to be administered by men over men, the great difficulty lies in this: You must first enable the government to controul the governed; and in the next place, oblige it to controul itself.
+- James Madison and Alexander Hamilton, The Federalist Paper 51, 1788
+
+
+One of the most important lessons of the Great Depression can be taken from the political, rather than the economic, response. As economic collapse shook the faith of populations a new sort of public figure emerged, one that put a premium on being loud and simple. They soon dominated the airwaves; scapegoating, ridicule, and paranoia were the staples of this new breed, and the nation’s problems were often put on the back of a specific ethnic or religious minority. This wasn’t just a left- or right-wing phenomenon; sometimes it was even a mix of the two. 
+- Scott Horton, The Heirs of Father Coughlin, Harper's 2009
+
+
+

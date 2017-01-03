@@ -1,0 +1,374 @@
+/* Theme */
+body{
+  font-family: 'Crimson Text', serif;
+}
+
+.pink{
+	background-color: #ffe8e8;
+}
+.red{
+	background-color: red;
+}
+
+::selection {
+    background: #ffe8e8;
+
+}
+::-moz-selection {
+    background: #ffe8e8;
+
+}
+::-webkit-selection {
+    background: #ffe8e8;
+}
+
+/* Header */
+.contHeader{
+  padding: 0px;
+  background: url('../img/cover.jpg');
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+#titleHeader{
+  width: 100%;
+  height: 600px;
+  /*background-image: url('../img/cover.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;*/
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.5s ease-out;
+  /*text-align: center;*/
+  position: relative;
+}
+
+#titleHeader::before{
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../img/cover.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  opacity: 0.70;
+}
+
+#titleHeader h2{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 100;
+  font-size: 38px;
+  color: white;
+  letter-spacing: 4px;
+  text-align: center;
+
+}
+
+@media (max-width: 1024px){
+#titleHeader h2{
+font-size: 25px;
+  }
+}
+
+#title, #subtitle{
+ transition: transform 0.5s ease-out;
+}
+
+#slider h2{
+font-family: 'Crimson Text', serif;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 32px;
+letter-spacing: 0.1px;
+
+}
+
+.layer {
+    height: 600px;
+    color: white;
+}
+#base-layer {
+    overflow: hidden;
+}
+
+#intro{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: 'Crimson Text', serif;
+}
+
+
+#intro p{
+font-family: 'Crimson Text', serif;
+font-size: 24px;
+color: #373737;
+line-height: 33px;
+
+}
+
+#intro a{
+text-decoration: none;
+color: #373737;
+border-bottom: none;
+font-style: italic;
+padding-bottom: 2px;
+
+  background: none;
+}
+
+#intro a:hover,
+#intro a:active,
+#intro a:focus
+{
+text-decoration: none;
+padding-bottom: 2px;
+border-bottom: 2px solid #373737;
+outline: none;
+
+}
+
+/* Navbar */
+.affix-top {
+    top:0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-collapse{
+  padding-left: 0px;
+}
+.affix ~ .postaffix {
+   //: relative;
+   margin-top: 50px;
+}
+
+.affix{
+ position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 9999;
+}
+
+.navbar{
+    border-radius: 0px;
+    border-left: 0px;
+    border-right:0px;
+    background-color: #FDFDFD;
+    border-top: 1px solid #F6F6F6;
+    border-bottom: 1px solid #F6F6F6;
+}
+
+ul.nav a{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12px;
+  color: #373737 !important;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  transition: background-color 0.3s ease;
+}
+
+ul.nav a:hover,
+ul.nav a:active,
+ul.nav a:focus {
+  background-color: #ffe8e8 !important; }
+
+
+.navbar-nav>.active>a{
+   background-color: #ffe8e8 !important;
+}
+
+/* Sections */
+#section1,
+#section2,
+#section3,
+#section4,
+#section5,
+#section6,
+#section7,
+#section9,
+#section10 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+font-family: 'Crimson Text', serif;
+}
+
+#generalstat{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.description h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+    color: #373737;
+    line-height: 35px;
+    margin-top: 0;
+    padding-right: 50px;
+    letter-spacing: 4px;
+  }
+
+.description h4{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 900;
+    font-size: 12px;
+    color: #373737;
+    letter-spacing: 3px;
+    line-height: 19px;
+    text-transform: uppercase;
+    padding-right: 50px;
+}
+
+.description a{
+  text-decoration: none;
+  color: #373737;
+  border-bottom: none;
+  font-style: italic;
+  padding-bottom: 2px;
+  background: none;
+}
+
+.description a:hover,
+.description a:active,
+.description a:focus
+{
+  text-decoration: none;
+  padding-bottom: 2px;
+  border-bottom: 2px solid #373737;
+  outline: none;
+}
+
+
+.description p{
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+  color: #373737;
+  line-height: 29px;
+}
+
+/* Cover */
+.glitch {
+  color: rgba(255, 255, 255, 1);
+  font-size: 85px;
+  letter-spacing: 10px;
+  position: relative;
+  font-family: 'Source sans pro', sans-serif;
+  font-weight: 900;
+  overflow: hidden;
+  padding: 0px 1px;
+  text-align: center;
+  /*animation: noise-anim-top 20s infinite linear alternate-reverse;*/
+}
+
+.glitch {
+  color: rgba(255, 255, 255, 1);
+  font-size: 85px;
+  letter-spacing: 10px;
+  position: relative;
+  font-family: 'Source sans pro', sans-serif;
+  font-weight: 900;
+  overflow: hidden;
+  padding: 0px 1px;
+  text-align: center;
+  /*animation: noise-anim-top 20s infinite linear alternate-reverse;*/
+}
+
+@media (max-width: 1024px){
+  .glitch{
+    font-size: 55px;
+  }
+}
+
+.glitch::after {
+  content: attr(data-text);
+  position: absolute;
+  left: -2px;
+  text-shadow: -2px 0 aqua;
+  top: 0;
+  color: white;
+  overflow: hidden;
+  opacity: 0;
+  /*clip: rect(65px, 9999px, 80px, 0px);*/
+  /*animation: noise-anim 20s infinite linear alternate-reverse;*/
+}
+
+.glitch::before {
+  content: attr(data-text);
+  position: absolute;
+  left: 2px;
+  text-shadow: 2px 0 red;
+  top: 0;
+  color: white;
+  opacity: 0;
+  overflow: hidden;
+  /*clip: rect(50px, 9999px, 65px, 0px);*/
+  /*animation: noise-anim-2 20s infinite linear alternate-reverse;*/
+}
+
+.glitchDynamic_1::after{
+  opacity: 1;
+  clip: rect(70px, 9999px, 85px, 0px);
+}
+
+.glitchDynamic_1::before{
+  opacity: 1;
+  clip: rect(50px, 9999px, 65px, 0px);
+}
+
+.glitchDynamic_2::after{
+  opacity: 1;
+  clip: rect(55px, 9999px, 63px, 0px);
+}
+
+.glitchDynamic_2::before{
+  opacity: 1;
+  clip: rect(70px, 9999px, 85px, 0px);
+}
+
+/* Footer */
+#footer{
+  background-color: #ffe8e8;
+  min-height: 250px;
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#footer p{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 900;
+  font-size: 12px;
+  color: #373737;
+  letter-spacing: 3px;
+  line-height: 19px;
+  text-transform: uppercase;
+  padding-right: 50px;
+  margin-top: 0px;
+}
+
+ #footer a{
+  color: #373737;
+ }
+
+#footer a:hover{
+  text-decoration: none;
+  opacity: 0.7;
+}

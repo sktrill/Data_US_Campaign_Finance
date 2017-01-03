@@ -1,0 +1,564 @@
+In the United State of Schadenfruede
+=======================================
+clickbait title: 7 Out of 10 Cats Say Yes, What About You?
+
+structural
+- design of democratic systems
+
+media polarization
+
+campaign finance picking more extreme candidates
+
+more extreme candidates building audiences through media polarization
+
+polarizations impact on democratic systems
+
+start with roman empire gracchus parallel
+
+end with paul ryan, failure of elites.. but brutus is an honourable man. 
+
+
+research
+----------------------------
+structural issues:
+- campaign finance
+- presidential democracy vs parliamentary
+- media polarization
+
+
+cultural:
+- demographic diversity restricted to parties -> immigration
+- education?
+- filter bubbles
+
+
+
+
+
+quotes
+----------------------------
+David Frum on media, conspiracy populism: 
+http://harpers.org/blog/2009/03/the-heirs-of-father-coughlin/
+
+Conspiracy theories always flourish during economic downturns. They flourished during the terrible slump of the 1890s (when they captured even so fine a mind as Henry Adams) and again in the 1930s. Today’s slump – so vast, so difficult to understand – opens the door again. Right-wing populist conspiracy theorizing often overlaps with the left-wing variety. And yet there are significant differences. Beck speaks to a feeling that this powerlessness is somehow new, somehow a departure from the natural order of things:
+
+”This is your country, you are still in control. … Now you’re being forced to bail those people out. There are more of us than there are of them. We surround them.”
+
+It’s not a new message of course. In fact, big parts of it seem almost self-consciously copied from Peter Finch’s legendary declamation in the movie Network. Of course, Finch was only pretending to be crazy. He was an actor performing a role. Then again – so probably is Glenn Beck. But what about Fox News? What’s their excuse?
+
+
+
+Bob Sheifer on great politicians use media of our time:
+https://www.youtube.com/watch?v=1rHsc5PRo8o
+
+
+Giles and Page paper -
+Another issue is that, in a statistical sense, the explanatory power of some of the equations that Gilens and Page use is weak. For example, the three-variable probability model that I referred to above explains less than ten per cent of the variation in the data. (For you statistical wonks, R-squared = 0.074.)
+
+
+
+America's Forgotten Majority on value voting of the white working class:
+http://www.theatlantic.com/magazine/archive/2000/06/americas-forgotten-majority/378242/
+
+A disjunction between economic experience and values has fundamentally shaped the political behavior of the forgotten majority. The economic experience has already been described. The values we have in mind are deeply held and broadly shared: opportunity, fair reward for effort, the centrality of hard work and individual achievement, and social commitment. As we have argued, over the past quarter century these values have repeatedly been contradicted or called into question by the tremendous slowdown -- and reversal of direction for some -- on that escalator to the middle class. The failure of activist government to get that escalator moving again, together with its apparent concentration on the problems or rights of others (minorities, the poor, gays, even criminals), has persuaded forgotten-majority voters that government is more a part of this values-experience disjunction than the solution to it. The direct and long-lasting result is the sour and skeptical attitude toward government that has become so common today.
+
+
+
+Paranoid style of politics and media: 
+http://archive.harpers.org/1964/11/pdf/HarpersMagazine-1964-11-0014706.pdf?AWSAccessKeyId=AKIAJXATU3VRJAAA66RA&Expires=1478981633&Signature=Jw6sAs3vZC9ZxYVpGhV31QKj%2F88%3D
+
+The paranoid spokesman sees the fate of conspiracy in apocalyptic terms-he traffics in the birth and death of whole worlds, whole political orders, whole systems of human values. He is always manning the barricades of civilization. He constantly lives at a turning point. Like religious millennialists he expresses the anxiety
+of those who are living through the last days and he is sometimes disposed to set a date for the apocalypse.
+
+As a member of the avant-garde who is capable
+of perceiving the conspiracy before it is fully
+obvious to an as yet unaroused public, the paranoid
+is a militant leader. He does not see social
+conflict as something to be mediated and compromised.
+in the manner of the working politician.
+Since what is at stake is always a conflict between
+absolute good and absolute evil, what is
+necessary is not compromise but the will to fight
+things out to a finish. Since the enemy is thought
+of as being totally evil and totally unappeasable,
+he must be totally eliminated-if not from the
+world, at least from the theatre of operations to
+which the paranoid directs his attention. This
+demand for total triumph leads to the formulation
+of hopelessly unrealistic goals, and since these
+goals are not even remotely attainable, failure
+constantly heightens the paranoid's sense of
+frustration. Even partial success leaves him with
+the same feeling of powerlessness with which he
+began, and this in turn only strengthens his
+awareness of the vast and terrifying' quality of
+the enemy he opposes.
+
+A final characteristic of the paranoid style is
+related to the quality of its pedantry. One of the
+impressive things about paranoid literature is the
+contrast between its fantasied conclusions and
+the almost touching concern with far ~uality it
+invariably shows. It produces heroic strivings for
+evidence to prove that the unbelievable is the only
+thing that can be believed. Of course, there are
+highbrow, lowbrow, and middlebrow paranoids,
+as there are likely to be in any political tendency.
+But respectable paranoid literature not only
+starts from certain moral commitments that can
+indeed be justified but also carefully and all but
+
+obsessively accumulates "evidence." The difference
+between this "evidence" and that commonly
+employed by others is that it seems less a means
+of entering into normal political controversy than
+a means of warding off the profane intrusions of
+the secular political world. The paranoid seems
+to have little expectation of actually convincing
+a hostile world, but he can accumulate evidence
+in order to protect his cherished convictions
+from it.
+
+Studying the millennial sects of Europe
+from the eleventh to the sixteenth century,
+Norman Cohn believed he found a persistent psychic
+complex that corresponds broadly with what
+I have been considering-a style made up of cer-
+tain preoccupations and fantasies: "the megalomaniac
+view of oneself as the Elect, wholly good,
+abominably persecuted, yet assured of ultimate
+triumph; the attribution of gigantic and demonic
+powers to the adversary; the refusal to accept
+the ineluctable limitations and imperfections of
+human existence, such as transience, dissention,
+conflict, fallibility whether intellectual or moral;
+the obsession with inerrable prophecies . , . systematized
+misinterpretations, always gross and
+often grotesque."
+
+
+
+
+Media Bubbles -
+https://5harad.com/papers/bubbles.pdf
+Summarizing our results on ideological isolation, we find that individuals
+generally read publications that are ideologically quite similar, and
+moreover, users that regularly read partisan articles are almost exclusively
+exposed to only one side of the political spectrum. In this sense, many—
+indeed nearly all—users exist in so-called echo chambers.
+
+
+*LOOK - at link, good use of subheadings in article for main points
+EJEO - Misinformation economy
+http://en.ejo.ch/latest-stories/bots-lies-and-propaganda-the-new-misinformation-economy
+Researchers not only provided alarming data, they also delivered a concept for analysing and interpreting it. Around the turn of the 21st century, and quite a while before the internet and digitalisation disrupted media industries, the Austrian social scientist Georg Franck published his book about the ‘attention economy’. He showed how growing competition for public attention between institutions, including politicians, CEOs, sports stars and other VIPs, has been changing society.
+
+Franck argued that material capitalism is transcending into a “mental capitalism” with “bizarre, clownish traits”. He presented a second economic circuit, which progressively replaces the traditional exchange of goods and services for money. According to Franck, under conditions of growing wealth and saturation of material needs, more and more news/information is exchanged for public attention/visibility.
+
+As public attention is scarce and can be turned into money or power, more money is invested to generate it. In this way we can plausibly explain why in the US nowadays there are five PR experts for each journalist, whereas thirty years ago this ratio was approximately 1:1. With the dominance and the professionalisation of the PR sector, copy-paste journalism has spread rapidly, and this has, step by step, undermined journalism’s credibility.
+
+
+
+echo chambers - (counters shown by goel et al)
+http://www.pnas.org/content/113/3/554.full
+users mostly tend to select and share content related to a specific narrative and to ignore the rest. In particular, we show that social homogeneity is the primary driver of content diffusion, and one frequent result is the formation of homogeneous, polarized clusters. Most of the times the information is taken by a friend having the same profile (polarization)––i.e., belonging to the same echo chamber.
+
+Users tend to aggregate in communities of interest, which causes reinforcement and fosters confirmation bias, segregation, and polarization. This comes at the expense of the quality of the information and leads to proliferation of biased narratives fomented by unsubstantiated rumors, mistrust, and paranoia.
+
+According to these settings algorithmic solutions do not seem to be the best options in breaking such a symmetry. 
+
+
+
+campaign finance - interest groups control over policy -  
+https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf
+
+
+Campaign finance - Madison vs anti-federalist.. republics must survive factions for the sake of liberty vs. they cannot for large republics the size of the united states
+https://en.wikipedia.org/wiki/Federalist_No._10
+
+
+Attention economy and polarization - 
+http://www.alamut.com/subj/economics/attention/frank_discussion.html
+In a way I regard this as an immunity one tries to build up, whether it is meditation or Yoga or other psychologies, or an intuitive filtering. Instead of caring a little about everything, there might be cultures - that are viewed as totally independent -, that have an compensatory effect.
+
+
+Confidence in institutions - 
+http://www.gallup.com/poll/192581/americans-confidence-institutions-stays-low.aspx
+Cfall onfidence in institutions stays near historical lows
+Confidence in newspapers, organized religion now at record lows
+Confidence in institutions has slumped for a decade
+
+
+Rise of pr jobs, fall in journalism and the battle between free and paid media - 
+http://www.takepart.com/feature/2015/02/13/pr-jobs-journalism-jobs
+a significant shift in power away from honest journalism and toward media manipulation, a world in which the source of any given “content” is considered less important than the number of clicks it generates.
+
+Nicholas Lemann, dean emeritus of the Columbia University Graduate School of Journalism, said, “The real problem in the world is the decreasing number of employed journalists.”
+
+
+
+
+Fall in journalists not a uniquely American issue - 
+http://www.j-source.ca/article/41-pr-professionals-every-journalist-canada
+
+
+Falling wall between media and the newsroom - 
+http://j-source.ca/article/going-native-death-journalism-or-way-future
+WaPo, Globe and Mail, Time
+
+
+Swing voters conventional wisdom on them is wrong - 
+https://www.acsu.buffalo.edu/~jcampbel/documents/SwingVoterChapter.pdf
+It is often thought that with both major-party candidates having a dependable base of partisan support with elections being quite competitive, that the vote decisions of swing voters hold election outcomes in the balance. Apparently, this is the not the case. The turnout and relative loyalties of the respective partisan bases have varied enough that they can effectively decide elections with only the help of a relatively small share of the swing vote. 
+
+Although this finding deflates the conventional wisdom's claims of the iportance of swing voters, it is nothing new - it is consistent with a substaintial body of electoral research over the years. Paul Lazarsfeld, a coauthoer of both 'The People's Choice' and 'Voting', two landmark studies in the field of electoral research, wrote in the 1940s that "in an important sense, modern Presidential campaigns are over before they begin." It is not that campaigns have no impact ,according toe Lazarsfeld, but that (in the age before digital photography) campaigns are "like the chemical bath which develops a photograph. The chemical influence is necessary to bring out the picture, but only the picture pre-structured on the plate can come out" This perspective may exaggerate the fixed nature of public opinion and underestimate the potential for vote shifts, but it is not far off the mark in suggesting that most of the fundamental influences on elections are in place well before teh campaign begins.
+
+A conservative estimate is that campaigns conducted after the conventions have probably been decisive in about a quarter of presidential elections since 1948.
+
+
+Party incumbency + issues in forecasting - 
+http://www.acsu.buffalo.edu/~jcampbel/documents/ForecastIssuesCampbell2014PS.pdf
+First party-term presidents are in the enviable position of
+being able to credibly campaign either advocating stability if
+things are going well or advocating change if things are going
+poorly. Having been in offi ce for just four years, these incumbents
+can still plausibly blame their predecessor for persisting
+problems (Campbell 2008). They are credited for their successes,
+but can evade a good deal of the blame for their failures. In
+eff ect, retrospective evaluations may be asymmetric for fi rst
+party-term incumbents.
+
+
+Polarization -
+https://web.stanford.edu/~gentzkow/research/PolarizationIn2016.pdf
+Partisanship is strong, parties are weak
+
+On one hand, it remains true that most Americans do not self-identify with extreme ideologies
+or hold extreme views on issues such as abortion or redistribution. The distributions of views on
+issues are mostly single-peaked, and have remained relatively stable over time.
+At the same time, the increasing correlation of views across issues, and between issues and
+party identification, mean that it is more accurate now than in the past to describe Americans as
+divided into two clear camps. We are less likely to find people holding liberal views on some issues
+and conservative views on others, or to meet a liberal Republican or conservative Democrat. More
+and more, who we support for president predicts how we feel about the full spectrum of issues,
+from taxes and redistribution, to social policy and gun control, to the environment.
+Perhaps the most disturbing fact is that politics has become increasingly personal. We don’t see
+those on the other side as well-meaning people who happen to hold different opinions or to weight
+conflicting goals differently. We see them as unintelligent and selfish, with views so perverse that
+they can be explained only by unimaginable cluelessness, or a dark ulterior motive. Either way,
+they pose a grave threat to our nation.
+
+
+More on polarization: 
+- sorting has increased partisanship
+http://www.hoover.org/sites/default/files/research/docs/fiorina_3_finalfile.pdf
+To a less extreme degree this is the case in Congress, where we clearly observe sorting
+(resulting from the replacement of conservative Southern Democrats by Republicans
+and liberal northeastern Republicans by Democrats) and polarization (reflecting the
+disappearance of the moderates).
+Obviously sorting produces partisan polarization—when conservative Democrats leave
+the Democratic Party, the party becomes more liberal. When liberal Republicans leave
+the Republican Party, the party becomes more conservative. The problem with using the
+term “partisan polarization” is that in common usage the modifier “partisan” often
+gets omitted and then forgotten. 
+
+According to Poole and Rosenthal, there is little evidence of conversion in the Congress:
+individual-level stability is the rule in congressional voting.12 Thus, replacement is the
+dominant process in both party sorting and polarization in Congress. Republicans have
+replaced conservative Democrats and Democrats have replaced liberal Republicans
+(sorting), but in addition more extreme members have replaced less extreme ones,
+resulting in a loss of moderates in both parties (polarization). 
+
+Three Features of Party Sorting in the United States
+
+Research to date identifies three propositions that we can accept with some confidence.
+First, members of the political class initiate the process—they do not sort as a response
+to popular demand; rather, they sort first and the (attentive) public takes note and sorts
+later.15 Second, sorting increases with the level of political involvement—the higher
+the level of political activism, the more distinct (better sorted) are Republicans and
+Democrats.16 Third, related to the second proposition, among typical partisans in the
+public sorting, has increased but remains far below the levels exhibited by those in
+the political class. Consider the abortion issue on which the party platforms are polar
+opposites.
+
+
+
+
+The Cycles of American History by Arthur Meier Schlesinger:
+
+History haunts even generations who refuse to learn history. Rhythms, patterns, continuities, drift out of time long forgotten to mold the present and to color the shape of things to come. Science and technology revolutionize our lives, but memory, tradition and myth frame our response. Expelled from individual consciousness by the rush of change, history finds its revenge by stamping the collective unconscious with habits, values, expectations, dreams. The diaelectic between past and future will continue to form our lives. 
+
+Let us define the cycle then as a continuing shift in national involvement, between public purpose and private interest.
+
+If it is a genuine cycle, the explanation must be primarily internal. Each new phase must flow out of the conditions - and contradictions - of the phase before and then itself prepare the way for the next recurrence. A true cycle, in other words, is self-generating.
+
+Disapointment is the universal modern malady. It is also a basic spring of political change. People can never be fulfilled for long either in the public or private sphere. We try one, then the other, and frustration compels a change in course. Moreover, however effective a particular course may be in meeting one set of troubles, it generally falters and fails when new troubles arise. And many troubles are inherently insoluble. As political eras, whether dominated by public purpose or by private interest, run their course, they infallibly generate the desire for something different. It always becomes after a while 'time for a change'. (pg 28)
+
+John Stuart Mills - historical change is to be measured in 'intervals of one generation, during which a a new set of human beings have been educated, have grown up from childhood, and taken possession of society'
+
+'The historical cycle,' wrote R G Collingwood, the philosopher of history, 'is a permanent feature of all historical thought; but wherever it occurs, it is incidental to a point of view. The cycle is hte historian's field of vision at a given moment... Some system of cycles there must always be for every historical student, as every man's shadow must fall somewhere on his own landscape; but as his shadwo moves with every movement he makes, so his cyclical view of history will shift and dissolve, decompose and recompose itself anew, with every advance in the historical knowledge of the individual and the race.'
+
+
+
+Influence on policy primarily from economic elites - 
+https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf
+
+In the United States, our
+findings indicate, the majority does not rule—at least not
+in the causal sense of actually determining policy outcomes.
+When a majority of citizens disagrees with economic elites
+or with organized interests, they generally lose. Moreover,
+because of the strong status quo bias built into the
+U.S. political system, even when fairly large majorities of
+Americans favor policy change, they generally do not get it.
+
+majorities of the American
+public actually have little influence over the policies our
+government adopts. Americans do enjoy many features
+central to democratic governance, such as regular elections,
+freedom of speech and association, and a widespread
+(if still contested) franchise. But we believe that if
+policymaking is dominated by powerful business organizations
+and a small number of affluent Americans, then
+America’s claims to being a democratic society are seriously
+threatened.
+
+
+
+Rise of right wing populism in Europe - 
+http://www.economist.com/news/europe/21679855-xenophobic-parties-have-long-been-ostracised-mainstream-politicians-may-no-longer-be
+
+
+
+PEW Politcal Media Habits - 
+http://www.journalism.org/2014/10/21/political-polarization-media-habits/
+http://www.people-press.org/2014/06/12/political-polarization-in-the-american-public/
+http://www.vox.com/2014/6/13/5803768/pew-most-important-fact-american-politics
+- on new sources that are trusted vs. distrusted, most watched media by conservative vs. liberal
+
+The likely electorate is more polarized than the public. As we noted in our first major report on political polarization, the most ideologically-oriented Americans are also the most politically active, while many in the center “remain on the edges of the political playing field.” This is the case when it comes to which ideological groups are most likely to vote on Nov. 4.
+
+Hostility toward the opposing party is a key marker of polarization and a strong motivator for voting, especially among Republicans. Both Republicans and Democrats have long held negative views of the opposite party. But the level of partisan hostility has grown dramatically in the past 20 years. The new panel survey finds a strong link between having a highly negative reaction to the opposing party and likelihood of turning out to vote, particularly among Republicans.
+
+Who voted in the primaries? Highest reported rate: consistent conservatives. Primaries often hold the key to the general election, in that they determine the choices available to voters. Is there polarization there? Absolutely. We find that 64% of consistent conservatives reported voting in a primary election this year, compared with 49% of consistent liberals. The self-reported turnout numbers are lower among those with ‘mostly’ conservative or liberal views, though the pattern of higher turnout on the right remains, with 46 percent of ‘mostly conservative’ voters having cast a primary ballot and 30 percent of ‘mostly liberal’ voters.
+
+THE ANGRIER AND MORE AFRAID YOU ARE, THE LIKELIER YOU ARE TO ACTUALLY DONATE OR VOLUNTEER
+"For example, 54% of Republicans and 46% of Democrats who have made campaign donations in the past two years describe the other political party as a threat to the nation. In other words, those who arguably have the greatest impact on politics are most likely to have strongly negative feelings toward the opposing party."
+
+Fully half of consistent conservatives (50%) and 35% of consistent liberals say it is important to them to live in a place where most people share their political views — the highest shares of any of the ideological groups," reports Pew. "If people living in 'deep red' or 'deep blue' America feel like they inhabit distinctly different worlds, it is in part because they seek out different types of communities, both geographic and social."
+
+
+Increase in media variety increases polarization - 
+https://dash.harvard.edu/bitstream/handle/1/4454154/Hojman_MediaPolarization.pdf?sequence=1
+We show how equilibrium polarization is affected by changes in the media environment, through
+two channels: the variety effect, whereby a decrease in media variety leads to convergence in citizens’
+views and hence to lower polarization; and the composition effect, whereby a lowering of barriers to
+media accessibility increases turnout and hence lowers polarization, since newly motivated voters are
+relatively more moderate. We take the model’s predictions to the data, in the US context of the
+introduction of broadcast TV, in the 1940s and 1950s, and radio, in the 1920s and 1930s. We show
+that, consistent with the model’s predictions, TV decreased polarization, and exposure to (network)
+radio was correlated with lower polarization. The evidence suggests that the variety effect was more
+important than the composition effect.
+
+
+
+Individuals subconsciously resist factual information that threatens their defining values 
+http://www.vox.com/2014/4/6/5556462/brain-dead-how-politics-makes-us-stupid
+Kahan doesn’t find it strange that we react to threatening information by mobilizing our intellectual artillery to destroy it. He thinks it’s strange that we would expect rational people to do anything else. "Nothing any ordinary member of the public personally believes about the existence, causes, or likely consequences of global warming will affect the risk that climate changes poses to her, or to anyone or anything she cares about," Kahan writes. "However, if she forms the wrong position on climate change relative to the one that people with whom she has a close affinity — and on whose high regard and support she depends on in myriad ways in her daily life — she could suffer extremely unpleasant consequences, from shunning to the loss of employment."
+
+Kahan calls this theory Identity-Protective Cognition: "As a way of avoiding dissonance and estrangement from valued groups, individuals subconsciously resist factual information that threatens their defining values." Elsewhere, he puts it even more pithily: "What we believe about the facts," he writes, "tells us who we are." And the most important psychological imperative most of us have in a given day is protecting our idea of who we are, and our relationships with the people we trust and love.
+
+The threat is real. Washington is a bitter war between two well-funded, sharply-defined tribes that have their own machines for generating evidence and their own enforcers of orthodoxy. It’s a perfect storm for making smart people very stupid.
+
+
+
+Time for Change is Time for Trump - https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6DC38DD5F6346385A7C72C15EA08CA09/S1049096516001268a.pdf/will-time-for-change-mean-time-for-trump.pdf
+
+
+
+News Coverage of 2016 - 
+http://tyndallreport.com/comment/20/5773/
+
+Donald Trump is by far the most newsworthy storyline of Campaign 2016, alone accounting for almost a third of all coverage (327 mins or 32%), more than the entire Democratic contest combined. 
+
+Hillary Rodham Clinton has been the second most newsworthy candidate (121 mins), with an additional 88 mins devoted to the controversy over her e-mails as Secretary of State and 29 mins to the investigations into the Benghazi Consulate attack. 
+
+Needless to say, Donald Trump is the King of All Earned Media.
+
+To take just one example, look at coverage of the Trump Campaign on the old-school nightly newscasts of the three broadcast television networks (ABC, CBS and NBC combined), whose average audiences each evening total some 25 million viewers. So far this year, Trump has attracted more airtime (175 mins) then all other candidates combined (Hillary Rodham Clinton 60; Bernie Sanders 44; Ted Cruz 32; Marco Rubio 14 and so on -- data through the end of last week, March 11th, weekdays only).
+
+
+
+Populism in Europe and the US - 
+http://www.fesdc.org/fileadmin/user_upload/publications/RightwingPopulism.pdf
+Populism’s central and permanent narrative is the juxtaposition of
+a (corrupt) »political class,« »elite,« or »establishment,«
+and »the people,« as whose sole authentic voice the
+populist party bills itself. Populists thus favor instruments
+of direct democracy.
+
+Right-wing populism adds a second antagonism of »us
+versus them« to this constellation as well as a specific
+style of political communication. Firstly, based on a
+definition of the people as culturally homogenous,
+right-wing populists juxtapose its identity and common
+interests, with are considered to be based on common
+sense, with the identity and interests of »others,« usually
+minorities such as migrants, which are supposedly
+favored by the (corrupt) elites. Secondly, right-wing
+populists strategically and tactically use negativity in
+political communication. Tools range from the calculated
+break of supposed taboos and disrespect of formal and
+informal rules (e.g., »political correctness«) to emotional
+appeals and personal insults. Conspiracy theories and
+biologist or violent metaphors have a place. In line
+with the anti-pluralism of its conception of the people,
+right-wing populists refuse the give and take of political
+compromise and demand radical solutions (concerning
+their core issues).
+
+
+Lists of Protests and Populist Party profiles - 
+http://ifuturo.org/documentacion/Democracy-on-the-edge.pdf
+
+
+
+History of American Parties and Media - 
+http://www.newyorker.com/magazine/2016/02/22/did-social-media-produce-the-new-populism
+The American two-party system is a creation of the press. “The idea of a party system,” as Richard Hofstadter once pointed out, is an American invention, one that not only tolerates but requires the practice of loyal opposition, political criticism, and organized dissent. It began in 1787, during the debate over the Constitution, a debate waged in ratifying conventions but also, more thrillingly, in the nation’s hundreds of weekly newspapers. Some favored ratification; these became Federalist newspapers. Others, the Anti-Federalist newspapers, opposed it. If it hadn’t been for the all-or-nothing dualism of this choice, the United States might well have a multiparty political culture. But the model held, and the Federalist–Anti-Federalist cleavage, with some adjustments, became the basis of the first party system, which took shape in 1796. It pitted Federalists, who supported the election of John Adams, against the Democratic-Republicans, who supported Thomas Jefferson. In the seventeen-nineties, the number of newspapers, each of them partisan, grew four times as fast as the population. At a time when there were very few national institutions, parties exerted a tremendous, and vital, nationalizing force. Once much maligned as destructive of public life, parties, driven by newspapers, became its machinery. “The engine,” Jefferson said, “is the press.”
+
+The American party system is not only a creation of the press; it is dependent on it. It is currently fashionable, indispensable, even, to malign the press, whether liberal or conservative.
+
+
+Political Economy of the News - 
+http://rockyanderson.org/rockycourses/BennettPoliticalEconomyofNews008.pdf
+Use for sidebar
+
+Game Theory Analysis of Electoral Systems - 
+http://darp.lse.ac.uk/PapersDB/Myerson_(JEP_95).pdf
+Use sidebar on how electoral systems with low approval ratings for both candidates is a bit like negative plurality ratings
+
+
+Two Party Systems More Stable in Presidential Democracies - 
+https://www3.nd.edu/~kellogg/publications/workingpapers/WPS/144.pdf
+Having a two-party system does not
+entirely resolve the problems of immobilism, executive/legislative paralysis, and weak executive
+power, but it increases the likelihood that the president will enjoy majority backing in congress,
+and hence decreases the likelihood of presidential/legislative impasse. Two-party systems are
+not necessarily better equipped to handle the problems created by minority government, but they
+are better at avoiding minority government. This fact is indicated in Table 3, which shows that in
+five of the six stable presidential democracies, presidents’ parties controlled nearly half of the
+seats in the lower chamber.
+
+
+Parliamentary vs Presidential - 
+https://www.bu.edu/sthacker/files/2012/01/Are-Parliamentary-Systems-Better.pdf
+Ceteris paribus, it is understood that parliamentary systems foster stronger political parties, more centralized and party-aligned interest groups, a more centralized decision-making process, and more centralized
+and hierarchical administrative structures. These differences are aptly, if somewhat
+ambiguously, summarized by the concept of veto points (Tsebelis 1995). Separate powers
+introduce an additional veto point into the political process, fragmenting politics at all levels.
+The effect of this concentration or dispersion of power is to create a contrast between systems
+that are decisive and those that are resolute (Cox & McCubbins 2001: 27). Parliamentary
+systems are decisive, presidential systems resolute. In addition, parliamentarism fosters a style
+of politics and policymaking that is probably more institutionalized, centered as it is on political
+parties, while presidentialism fosters a more personalized and free-floating style of leadership
+centered on individual politicians and smaller, less established organizational entities.
+
+Partisans of separate powers prize the diffusion of power, while
+6
+parliamentarists prize its unification. Thus, most of the arguments that we review here may be
+understood as derivative of a single centralist/decentralist dimension
+
+To this end, we put it forth, provisionally and broadly, that what distinguishes
+parliamentarism from presidentialism, and what makes the former a more reliable vehicle for
+good public policy, is its capacity to function as a coordination device. The state is often
+conceptualized as a solution to the multiple coordination problems that emanate from society.
+There are many variations on this theme—joint-decision traps, shirking, under providing of
+public goods, overgrazing, the tragedy of the commons, common pool problems, collective
+action problems, free rider problems, prisoner’s dilemmas, transaction-cost dilemmas, and so
+forth. These are different ways of pointing out a central problem: quite often, when individuals
+or groups pursue their own agendas the result is not what society as a whole would prefer.
+Coordination problems thus involve a conflict between the part and the whole, between
+individual or group rationality and collective rationality.
+
+Arguably, parliamentarism offers better tools for resolving these sorts of difficulties than
+presidentialism (within the framework of democracy). This is because parliamentarism
+integrates a diversity of views, while providing greater incentives for actors to reach agreement.
+Consider a stylized comparison of decisionmaking processes within the two systems. Both
+feature a similar set of players: a legislature with majority and minority parties, committees and
+separate leadership hierarchies, a cabinet, a chief executive (PM or president), and various
+government agencies. Yet, the interaction of these players, and the role that each institution
+assumes, tend to be quite different. In parliamentary systems, debate occurs in a highly 
+30
+institutionalized fashion—within parties, within committees, within leadership groups, across
+parties, within the cabinet, and between cabinet-level ministers and high-level civil service
+appointees within the bureaucracy. In presidential systems, by contrast, most of these units have
+greater independence, and those without independence (such as the cabinet) have very little
+power. The players that matter have the capacity, and often the incentive, to say no, or to insist
+upon side payments in exchange for support. While successful coordination can occur in this
+highly fragmented institutional sphere, resulting agreements may impose higher transaction costs
+than one would anticipate within a parliamentary system, where the incentives of the key actors
+are generally to reach agreement. This, in turn, is a product of how political careers and electoral
+incentives align within these various constitutional systems.
+
+
+Presidential vs Parliamentary - 
+https://files-politicalscience-stanford-edu.s3.amazonaws.com/s3fs-public/institlfoundationsdemocgovt.pdf
+There is no simple way to sum all this up, but one central theme is most
+deserving of emphasis. In a separation of powers system, due largely to the way
+authority is divided and checked, formalization works exceedingly well to
+protect political interests. It solves commitment problems, ensures the durability
+of political victories, and, for all major players, is an extremely attractive
+strategy in the politics of structure. The result is a government buried in
+bureaucracy: its agencies denied the discretion they need for effective performance,
+hamstrung by restrictive rules and procedures, and insulated from
+meaningful democratic control. 
+
+In a parliamentary system, due largely to its concentration of power, formalization
+does not work to protect political interests or solve commitment problems,
+and it is not an attractive strategy in the politics of structure. Structural
+choice is driven instead by the majority party's concern for effective govern
+ment and strong leadership, and commitment problems are resolved in informal
+ways that guard performance and accountability. The result is a government
+whose agencies are granted lots of discretion, built to do their jobs well,
+and coordinated within a coherent system of democratic control.
+
+
+Co-Opting for the Republican Politicans by Wealthy Donors - 
+http://www.vox.com/2016/4/14/11348780/gop-megadonors-koch-brothers
+
+
+See IDEA report for international comparison on campaign finance
+
+
+Supermajorities in the House - 
+https://www.salon.com/2013/01/13/the_house_gop_cant_be_beat_its_worse_than_gerrymandering/
+We hear a lot about campaign finance and gerrymandering, but single-member district elections – that is, having each House member represent one congressional district – are without doubt the single greatest cause of what is broken about Congress. They are the key reason why Republicans easily kept control of the House despite losing the popular vote to Democrats, and why the political center has lost out to partisans on both sides of the aisle. 
+
+We want to make four arguments. First, House elections today have a fundamental partisan skew against both Democratic and moderate candidates. Second, that partisan skew creates perverse incentives for how Republicans approach policymaking and helps explain the Republican Party’s poor performance in the presidential elections since the 1980s. Third, while partisan gerrymandering is abhorrent, the real problem is one of districting, not redistricting. Establishing independent redistricting commissions is not enough. Fourth, it’s easier to fix these problems than much of what ails our politics, as voting alternatives to winner-take-all elections offer a straightforward statutory approach grounded in our own electoral traditions.
+
+
+
+
+
+Bishop - Big Sort 
+In 1976, for example, less than a quarter of Americans lived in “landslide” counties—those
+that voted overwhelmingly for one candidate or another in the presidential election. By
+2004, almost half of Americans did (p. 6).
+Bishop (2004) concludes:
+Today, most Americans live in communities that are becoming more politically homogeneous
+and, in effect, diminish dissenting views. And that grouping of like-minded
+people is feeding the nation’s increasingly rancorous and partisan politics
+
+
+"Were it left to me to decide whether we should have a government without newspapers, or newspapers without a government, I should not hesitate a moment to prefer the latter"
+- Thomas Jefferson
+
+
+
+
+
+
+
+
+
